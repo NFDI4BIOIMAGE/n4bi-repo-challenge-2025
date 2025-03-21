@@ -37,7 +37,7 @@ We ask each participant to provide an overview in the table below which data set
 
 | Submitter     | Repos planned |  Data type | Data steward | 
 | ------------- | ------------- | ------------- |------------- |
-|  Philipp  | BIA, IDR, GEO, HubMAP   |multi-modal spatial data||
+|  Michele  | BIA, IDR, GEO, HubMAP   |multi-modal spatial data||
 |  Torsten  | BIA, IDR, OpenNeuro   | multi-modal neuro data |
 |  Conni    | BIA, IDR (if appropriate), TBD    | FLIM and summed intensity data    | (me)
 |  Niraj  | BIA, IDR(?), DataPLANT HUB | Spinning Disk Microscopy data |

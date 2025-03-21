@@ -21,7 +21,7 @@ We invite everybody to contribute to this challenge by providing data sets to be
 
 The aims of this challenge are: **(i)** to learn which issues you encounter when uploading data, **(ii)** how to prepare yourself / your data better for this process, e.g. which metadata / data formats are required, **(iii)** have examplary data sets for reuse / re-analysis e.g. via galaxy and for testing new tools and **(iv)** get ready for the "close to real life" repo-challenge 2.0. 
 
-We ask each participant to provide an overview in the table below which data sets and repos will be used. In case you need help from a data steward please write to the [helpdesk](https://nfdi4bioimage.de/help-desk/). In addition, a questionnaire will be provided (under construction, link will follow) to share the experience. A short summary about this challenge is also available on [zenodo](https://doi.org/10.5281/zenodo.14833974). 
+We ask each participant to provide an overview in the table below which data sets and repos will be used. In case you need help from a data steward please write to the [helpdesk](https://nfdi4bioimage.de/help-desk/). In addition, please the following questionnaire to share the experience: (https://cloud.gerbi-gmb.de/apps/forms/s/Jr9NtF6HTZPBYHbeoNpaJBTB). A short summary about this challenge is also available on [zenodo](https://doi.org/10.5281/zenodo.14833974). 
 
 **Time line**
 

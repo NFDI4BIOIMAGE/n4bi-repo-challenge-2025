@@ -41,7 +41,7 @@ We ask each participant to provide an overview in the table below which data set
 |  Torsten  | BIA, IDR, OpenNeuro   | multi-modal neuro data |
 |  Conni    | BIA, IDR (if appropriate), TBD    | FLIM and summed intensity data    | (me)
 |  Niraj  | BIA, IDR(?), DataPLANT HUB | Spinning Disk Microscopy data |
-|    |    |    |
+|  Ksenia |  Zenodo, BIA  |  NFDI4BIOIMAGE Calendar 2025 images, different modalities  | (me)
 |    |    |    |
 |    |    |    |
 
@@ -50,6 +50,22 @@ We ask each participant to provide an overview in the table below which data set
 + [Multi-modal Human Brain MRI+EEG+Physio Dataset](https://openneuro.org/datasets/ds005795/versions/1.0.0)
 + [Multi-modal Rat Brain MRI+LightSheet Dataset](https://git.nfdi4plants.org/torsten.stoeter/rat-mri-ls)
 + [Multi-modal spatial data](https://www.ebi.ac.uk/biostudies/BioImages/studies/S-BIAD1093)
++ NFDI4BIOIMAGE Calendar 2025 Zenodo:
+- Cover https://zenodo.org/records/16979744
+- January https://zenodo.org/records/16980217
+- February https://zenodo.org/records/16980386
+- March https://zenodo.org/records/17098115
+- April https://zenodo.org/records/16980661
+- May https://zenodo.org/records/16991961
+- June https://zenodo.org/records/16992716
+- July https://zenodo.org/records/16992904
+- August https://zenodo.org/records/16993059
+- September https://zenodo.org/records/16993178
+- October https://zenodo.org/records/16993297
+- November https://zenodo.org/records/16993649
+- December https://zenodo.org/records/16993955
++ NFDI4BIOIMAGE Calendat 2025 BIA: https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD2269
+
 
 Eventually, the data uploaded for the challenge can be browsed and searched at
 [https://nfdi4bioimage.github.io/n4bi-repo-challenge-2025/](https://nfdi4bioimage.github.io/n4bi-repo-challenge-2025/).
